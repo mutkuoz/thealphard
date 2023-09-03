@@ -46,6 +46,6 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 **Socials**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mutkuoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.alphard) [![E-Mail](https://img.shields.io/badge/email-white?style=for-the-badge&logo=maildotru)](mailto:contact@alphard.tk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mutkuoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.alphard)
 
 
