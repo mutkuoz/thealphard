@@ -22,7 +22,7 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 
 **Community**
-- BİLFEN Engineering
+- Co-founder&member of BİLFEN Engineering Club
 - Lambdata Cybersolutions Co-Founder
 - PlawLabs Co-Chief Executive Officer
 - The Retro Nerd Project Co-Chief Technology Officer
