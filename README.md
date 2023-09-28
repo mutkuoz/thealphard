@@ -4,7 +4,7 @@ Hello world, I am Mehmet Utku ÖZTÜRK, a young yet passionate developer.
 
 **Summary**
 
-With an insatiable curiosity, unwavering diligence, and a profound passion for the worlds of computers and mathematics, I embarked on a journey at the tender age of 9 that has since seen me thrive in various domains. My quest for knowledge and innovation led me to participate in esteemed events such as Kanguru Mathematics, International METU Robotics Days, and TeknoFest on four occasions, nurturing my interdisciplinary skills.
+With an insatiable curiosity, unwavering diligence, and a profound passion for computers and mathematics, I started my journey at the tender age of 9. My pursuit of knowledge and innovation drove me to engage in prestigious events like Kanguru Mathematics, International METU Robotics Days, and TeknoFest four times, enhancing my interdisciplinary skills.
 
 My portfolio includes a diverse array of projects, each a testament to my commitment to technological advancement. Notably, I contributed to the creation of 'Gönül Tatlıhanesi,' an international metaverse café that celebrates diverse cultures, 'LoveSolutions,' a matchmaking software inspired by 'How I Met Your Mother,' and 'SoruBot,' a versatile AI-driven mobile application facilitating personalized study plans, test preparation, AI teacher model that is capable of giving lecture, and supports interactive learning.
 
