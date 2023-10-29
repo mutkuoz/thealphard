@@ -14,8 +14,9 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 - 🐍 Python Programmer
 - 🤖 AI Specialist
-- 🤓 Math Enthusias
-- 👯 Part of Developer Community.
+- 🤓 Math Enthusiast
+- 👯 Part of Developer Community
+- 🤓 Professional Nerd :)
 - 📫 Reach me by E-mail, LinkedIn or Instagram
 - 📝 [Portfolio](https://alphard.tk)
 
