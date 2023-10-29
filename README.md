@@ -14,7 +14,7 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 - 🐍 Python Programmer
 - 🤖 AI Specialist
-- 🤓 Math Enthusiast
+- 🧑‍🏫 Math Enthusiast
 - 👯 Part of Developer Community
 - 🤓 Professional Nerd :)
 - 📫 Reach me by E-mail, LinkedIn or Instagram
