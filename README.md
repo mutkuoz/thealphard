@@ -23,9 +23,9 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 
 **Community**
-- Co-founder&member of BİLFEN Engineering Club
+- Chief Technology Officer & Manager of Contestings at CYDE: Community of Young Developers & Entrepreneurs
+- Co-founder&Head of Software of BİLFEN Engineering Club
 - Lambdata Cybersolutions Co-Founder
-- PlawLabs Co-Chief Executive Officer
 - The Retro Nerd Project Co-Chief Technology Officer
 - Student at Prof. Dr. Aziz Sancar BİLSEM
 
