@@ -16,7 +16,6 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 - 🤖 AI Specialist
 - 🧑‍🏫 Math Enthusiast
 - 👯 Part of Developer Community
-- 🤓 Professional Nerd :)
 - 📫 Reach me by E-mail, LinkedIn or Instagram
 - 📝 [Portfolio](https://alphard.tk)
 
@@ -24,9 +23,11 @@ Most of my projects are openly available on platforms such as GitHub, PyPI, and 
 
 **Community**
 - Chief Technology Officer & Manager of Contestings at CYDE: Community of Young Developers & Entrepreneurs
+- Chief Technology Officer at Plawlabs
+- Driver Team Captain (Robot Pilot)&Programmer at ASRobotics
 - Co-founder&Head of Software of BİLFEN Engineering Club
-- Lambdata Cybersolutions Co-Founder
-- The Retro Nerd Project Co-Chief Technology Officer
+- Co-Founder at Lambdata Cybersolutions 
+- Co-Chief Technology Officer at The Retro Nerd Project 
 - Student at Prof. Dr. Aziz Sancar BİLSEM
 
 **Languages and Tools:**
